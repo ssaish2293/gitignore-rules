@@ -1,3 +1,4 @@
 first-file.txt
 bin
 *.tmp
+*.pem
